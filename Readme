@@ -1,1 +1,13 @@
+News Fetcher Project
+A Python-based command-line application that fetches the latest news from NewsAPI.
+This project allows users to view top articles on Tesla by default and search for news on other topics dynamically.
+
+Features
+~Fetch the latest Tesla news by default.
+~Search for news on any topic with a user-defined date.
+~Results include article titles, descriptions, and URLs.
+
+Tech Stack
+~Python
+~Requests Module for making API calls.
 
